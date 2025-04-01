@@ -8,13 +8,13 @@ Data: 06/03/2025
 Este projeto é uma tarefa de *Machine Learning* da empresa *Interconnect*, uma empresa de telecomunicações fictícia. Ele foi desenvolvido como a entrega final do curso de Cientista de Dados da [Tripleten](https://tripleten.com/pt-bra/data-scientist/meet) e tem como objetivo demonstrar na prática os conhecimentos adquiridos durante o curso.
 
 **Tabela de conteúdo:**
-- [Objetivo 🏔](#objetivo-)
-- [Resultados 🏁](#resultados-)
-- [Ferramentas Utilizadas 🧰](#ferramentas-utilizadas-)
-- [Metodologia 🔍](#metodologia-)
-- [Como executar o projeto 💽](#como-executar-o-projeto-)
-- [Aprendizados 📝](#aprendizados-)
-- [Contato 😄](#contato-)
+- [Objetivo](#objetivo-)
+- [Resultados](#resultados-)
+- [Ferramentas Utilizadas](#ferramentas-utilizadas-)
+- [Metodologia](#metodologia-)
+- [Como executar o projeto](#como-executar-o-projeto-)
+- [Aprendizados](#aprendizados-)
+- [Contato](#contato-)
 
 ## Objetivo 🏔
 
