@@ -57,7 +57,7 @@ O cancelamento de clientes (*"Churn"*) está fortemente relacionado a fatores co
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,numpy,pandas,python,scikitlearn,seaborn,vscode&theme=light&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cuda,jupyter,numpy,pandas,python,scikitlearn,seaborn,vscode&theme=light&perline=10" />
   </a>
 </p>
 
@@ -68,6 +68,7 @@ O cancelamento de clientes (*"Churn"*) está fortemente relacionado a fatores co
 - **Bibliotecas para geração dos gráficos:** *Matplotlib Pyplot • Seaborn*;
 - **Bibliotecas para contrução de modelos de *machine learning*:** *Sklearn • CatBoost*;
 - **Bibliotecas para monitoramento de tempo de execução:** *Timeit • Tqdm*;
+- **Aceleração do processo de treinamento em GPU:** CUDA;
 - **Software de edição de código:** *VsCode*.
 
 ## Metodologia 🔍
