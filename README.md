@@ -117,7 +117,7 @@ O cancelamento de clientes (*"Churn"*) está fortemente relacionado a fatores co
 
 ## Como executar o projeto 💽
 
-Este projeto foi desenvolvido em **Python** utilizando *Jupyter Notebook*. Para executar o projeto, siga os passos abaixo:
+Este projeto foi desenvolvido em **Python** utilizando *Jupyter Notebook* você consegue visualizá-lo rapidamente [aqui](https://github.com/georgiacavallaro/ml_previsao_de_churn_telecomunicacoes/blob/main/projeto17_GeorgiaCavallaro_git.ipynb). Para executar o projeto, siga os passos abaixo:
 
 **1. Pré-requisitos:**
   - Certifique-se de ter instalado:
