@@ -1,5 +1,8 @@
 # Projeto de *Machine Learning* para Previsão de Churn - Telecomunicações (*Interconnect*)
 
+Autora: Georgia A. Cavallaro
+Data: 06/03/2025
+
 ## Descrição do projeto
 
 Este projeto é uma tarefa de *Machine Learning* da empresa Interconnect, uma empresa de telecomunicações fictícia. Ele foi desenvolvido como a entrega final do curso de Cientista de Dados da Tripleten e tem como objetivo demonstrar na prática os conhecimentos adquiridos durante o curso.
